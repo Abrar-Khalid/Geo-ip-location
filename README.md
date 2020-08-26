@@ -1,2 +1,2 @@
 # Geo-ip-location
-Track IP loaction using api call. 
+Track City , ISP , Location , Region ,Time , Zip , Latitude and Longitude of IP using api call. 
