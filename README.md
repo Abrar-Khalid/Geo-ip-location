@@ -5,4 +5,4 @@ Track City , ISP , Location , Region ,Time , Zip , Latitude and Longitude of IP 
 git clone https://github.com/Abrar-Khalid/Geo-ip-location.git
 
 # Usage
-python3 ip-location.py -i <IP-Address>
+python3 ip-location.py -i --IP_Address--
