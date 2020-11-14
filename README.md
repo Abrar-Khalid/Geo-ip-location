@@ -8,4 +8,4 @@ Linux
 git clone https://github.com/Abrar-Khalid/Geo-ip-location.git
 
 # Usage
-python3 ip-location.py -i --IP_Address--
+python3 ip-location.py -i 0.0.0.0
