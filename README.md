@@ -5,7 +5,7 @@ Track City , ISP , Location , Region ,Time , Zip , Latitude and Longitude of IP 
 Linux
 
 # Download
-git clone https://github.com/Abrar-Khalid/Geo-ip-location.git
+git clone https://github.com/System-CTL/Geo-ip-location.git
 
 # Usage
 python3 ip-location.py -i 0.0.0.0
